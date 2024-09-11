@@ -11,6 +11,12 @@ It reimplements the following killchains functions of AADInternals and all their
 ## Install
 
 ```
+pip3 install git+https://github.com/synacktiv/AADOutsider-py
+```
+
+OR
+
+```
 python3 -m venv venv
 source venv/bin/activate
 pip3 install -r requirements.txt
